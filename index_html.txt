@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI och informationssökning</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><h1>AI och informationssökning</h1><p>En guide till smartare sökningar, källkritik och ansvarsfull användning av AI.</p></header>
+<section><h2>Den pragmatiska beslutsmodellen</h2><p>Använd AI när syftet är nyfikenhet eller utforskande. Vid uppgifter där sanningshalt är avgörande krävs domänkunskap och noggrann granskning.</p></section>
+<section><h2>Tips för effektiv AI-sökning</h2><ol><li>Formulera tydliga frågor.</li><li>Prompta neutralt.</li><li>Utvärdera svaret.</li><li>Verifiera resultaten.</li></ol></section>
+<section><h2>Källkritik i AI-eran</h2><ul><li><strong>Beroende:</strong> Vilka källor bygger påståendet på?</li><li><strong>Äkthet:</strong> Kan uppgifterna bekräftas av betrodda källor?</li><li><strong>Tid:</strong> Är informationen aktuell?</li><li><strong>Tendens:</strong> Finns det bias i frågan eller svaret?</li></ul></section>
+<footer><p>Sammanfattning: AI är ett kraftfullt verktyg för lärande och utforskande, men kräver aktiv källkritik och eftertanke.</p></footer>
+</body></html>
